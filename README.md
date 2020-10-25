@@ -3,7 +3,7 @@ Recommendation Engine for Books
 
 
 
-This chatbot is named after Booker T. Washington, a black man. He will recommend books for you based off a conversation you have with him.
+This chatbot is named after Booker T. Washington. He will recommend books for you based off a conversation you have with him.
 
 He will provide a link to Amazon.com for your purchasing convenience. Use it, please.
 
